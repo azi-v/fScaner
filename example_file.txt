@@ -1,0 +1,2 @@
+type=command
+command=ssh -i .test namespace.doamin.doamin "cd /data/www/script; ./axb_finish_monitor.py"
